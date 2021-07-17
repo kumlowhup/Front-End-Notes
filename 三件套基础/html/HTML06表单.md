@@ -10,9 +10,18 @@
 
 二、`<input />`表单元素
 
-​	type常用属性值：text文本框 password密码 radio单选 checkbook复选 submit提交 reset重置 bottom普通按钮 file文件域（上传文件）
+##### 	type常用值：
 
-​	name属性：同一name属性确保radio和checkbook，type等也需要name值配合服务器
+	- text文本框 
+	- password密码 
+	- radio单选 
+	- checkbook复选 
+	- submit提交 
+	- reset重置 
+	- bottom普通按钮 
+	- file文件域（上传文件）
+
+​	**name**属性：同一name属性确保radio和checkbook，type等也需要name值配合服务器
 
 ​	checked 打勾按钮 设置值为"checked"
 
